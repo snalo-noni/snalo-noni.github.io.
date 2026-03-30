@@ -13,27 +13,13 @@
 * **Location:** New Mandela Square, Zwelethemba, Worcester
 
 ---
-
 ### <span style="color:#2E86C1">**TECHNICAL SKILLS**</span>
-
-**languages**
- * Java
- * Python
- * SQL (Basic) 
- **Web Dev**  
-* HTML
-*  JavaScript
-* CSS 
- **Tools** 
- * GitHub
- * IntelliJ
- * VS Code 
- * Maven 
-**Soft Skills** 
-* Time Management
-* Teamwork
-* Problem Solving 
-
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Java, Python, SQL (Basic) |
+| **Web Dev** | HTML, JavaScript, CSS |
+| **Tools** | GitHub, IntelliJ, VS Code, Maven |
+| **Soft Skills** | Time Management, Teamwork, Problem Solving |
 ---
 
 ### <span style="color:#2E86C1">**EDUCATION**</span>
