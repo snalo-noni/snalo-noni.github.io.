@@ -8,7 +8,7 @@
 ### <span style="color:#2E86C1">**CONTACT INFORMATION**</span>
 * **Email:** [230541844@mycput.ac.za](mailto:230541844@mycput.ac.za)
 * **GitHub:** [github.com/230541844](https://github.com/230541844)
-* * **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/snalo-noni-8a9661352/)
+* **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/snalo-noni-8a9661352/)
 * **Phone:** 072 904 3817
 * **Location:** New Mandela Square, Zwelethemba, Worcester
 
