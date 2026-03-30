@@ -23,23 +23,22 @@
 ---
 
 ### <span style="color:#2E86C1">**EDUCATION**</span>
-* **Diploma in Application Development** *Cape Peninsula University of Technology* | 2024 – PRESENT
 * **Matric** *I.D Mkize B.C.M High School* | 2018 – 2022
-
+* **Diploma in Application Development** *Cape Peninsula University of Technology* | 2024 – PRESENT
 ---
 
 ### <span style="color:#2E86C1">**PROJECTS**</span>
 
 #### **Community Store Project (2026 Group Project)**
-* [cite_start]Leading technical aspects of a mobile-first marketplace for students and local vendors[cite: 2].
-* [cite_start]Implementing
-* **Agile methodology**, including sprint planning and user stories[cite: 2, 9, 71].
+* Leading technical aspects of a mobile-first marketplace for students and local vendors.
+* Implementing
+* **Agile methodology**, including sprint planning and user stories.
 
 #### **Student Management System**
-* [cite_start]Developed a Java-based system to manage student records and databases using OOP principles[cite: 112, 113].
+* Developed a Java-based system to manage student records and databases using OOP principles.
 
 #### **Library Management System**
-* [cite_start]Built a Python application to manage books and users with integrated data storage[cite: 114, 115].
+* Built a Python application to manage books and users with integrated data storage.
 
 ---
 
