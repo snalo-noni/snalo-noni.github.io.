@@ -1,5 +1,3 @@
-# snalo-noni.github.io.
-
 # <span style="color:#2E86C1">SNALO NONI</span>
 ### **Junior Software Developer**
 
