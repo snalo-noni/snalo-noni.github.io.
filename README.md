@@ -15,23 +15,24 @@
 ---
 
 ### <span style="color:#2E86C1">**TECHNICAL SKILLS**</span>
+
 **languages**
- *Java
- *Python
- *SQL (Basic) 
+ * Java
+ * Python
+ * SQL (Basic) 
  **Web Dev**  
 * HTML
 *  JavaScript
 * CSS 
  **Tools** 
- *GitHub
- *IntelliJ
- *VS Code 
- *Maven 
+ * GitHub
+ * IntelliJ
+ * VS Code 
+ * Maven 
 **Soft Skills** 
-*Time Management
-*Teamwork
-*Problem Solving 
+* Time Management
+* Teamwork
+* Problem Solving 
 
 ---
 
