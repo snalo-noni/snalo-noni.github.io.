@@ -14,7 +14,7 @@
 
 ---
 <span style="color:#2E86C1">TECHNICAL SKILLS</span>
-Programming Languages: Java, Python, SQL (Basic)
+* Programming Languages: Java, Python, SQL (Basic)
 
 * Web Development: HTML, JavaScript, CSS
 
