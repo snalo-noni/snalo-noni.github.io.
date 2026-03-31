@@ -13,18 +13,19 @@
 * **Location:** New Mandela Square, Zwelethemba, Worcester
 
 ---
-### <span style="color:#2E86C1">**TECHNICAL SKILLS**</span>
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Java, Python, SQL (Basic) |
-| **Web Dev** | HTML, JavaScript, CSS |
-| **Tools** | GitHub, IntelliJ, VS Code, Maven |
-| **Soft Skills** | Time Management, Teamwork, Problem Solving |
+<span style="color:#2E86C1">TECHNICAL SKILLS</span>
+Programming Languages: Java, Python, SQL (Basic)
+
+Web Development: HTML, JavaScript, CSS
+
+Developer Tools: GitHub, IntelliJ IDEA, VS Code, Maven
+
+Professional Soft Skills: Time Management, Teamwork, Problem Solving
 ---
 
 ### <span style="color:#2E86C1">**EDUCATION**</span>
-* **Matric** *I.D Mkize B.C.M High School* | 2018 – 2022
-* **Diploma in Application Development** *Cape Peninsula University of Technology* | 2024 – PRESENT
+* **Matric** *I.D Mkize B.C.M High School*  2018 – 2022
+* **Diploma in Application Development** *Cape Peninsula University of Technology*  2024 – PRESENT
 ---
 
 ### <span style="color:#2E86C1">**PROJECTS**</span>
