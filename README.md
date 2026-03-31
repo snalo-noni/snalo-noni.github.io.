@@ -33,7 +33,7 @@
 #### **Community Store Project (2026 Group Project)**
 * Leading technical aspects of a mobile-first marketplace for students and local vendors.
 * Implementing
-* **Agile methodology**, including sprint planning and user stories.
+* Agile methodology, including sprint planning and user stories.
 
 #### **Student Management System**
 * Developed a Java-based system to manage student records and databases using OOP principles.
