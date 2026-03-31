@@ -1,7 +1,7 @@
 # <span style="color:#2E86C1">SNALO NONI</span>
 ### **Junior Software Developer**
 
-> **Aspiring Software Developer** driven by a love for clean code and intuitive design. Experienced in Java, Python, and collaborative development through **GitHub**. I specialize in building functional, user-friendly applications that bridge the gap between complex logic and great digital experiences.
+> **Aspiring Software Developer** driven by a love for clean code and intuitive design. Experienced in Java, Python, and collaborative development through **GitHub**. I specialize in building functional, user-friendly applications that bridge the gap between complex logic and great digital experiences.My goal is to leverage my technical expertise in a Work Integrated Learning (WIL) placement to contribute to impactful software solutions.
 
 ---
 
