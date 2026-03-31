@@ -16,11 +16,11 @@
 <span style="color:#2E86C1">TECHNICAL SKILLS</span>
 Programming Languages: Java, Python, SQL (Basic)
 
-Web Development: HTML, JavaScript, CSS
+* Web Development: HTML, JavaScript, CSS
 
-Developer Tools: GitHub, IntelliJ IDEA, VS Code, Maven
+* Developer Tools: GitHub, IntelliJ IDEA, VS Code, Maven
 
-Professional Soft Skills: Time Management, Teamwork, Problem Solving
+* Professional Soft Skills: Time Management, Teamwork, Problem Solving
 ---
 
 ### <span style="color:#2E86C1">**EDUCATION**</span>
