@@ -1,7 +1,7 @@
 # <span style="color:#2E86C1">SNALO NONI</span>
 ### **Junior Software Developer**
 
-> **Aspiring Software Developer** driven by a love for clean code and intuitive design. Experienced in **Java, Python**, and collaborative development through **GitHub**. I specialize in building functional, user-friendly applications that bridge the gap between complex logic and great digital experiences.
+> **Aspiring Software Developer** driven by a love for clean code and intuitive design. Experienced in Java, Python, and collaborative development through **GitHub**. I specialize in building functional, user-friendly applications that bridge the gap between complex logic and great digital experiences.
 
 ---
 
@@ -13,6 +13,7 @@
 * **Location:** New Mandela Square, Zwelethemba, Worcester
 
 ---
+
 <span style="color:#2E86C1">TECHNICAL SKILLS</span>
 * Programming Languages: Java, Python, SQL (Basic)
 
